@@ -1,0 +1,3 @@
+C:/Users/C5262029/Documents/Job-Management-Application/cmake-build-debug/CMakeFiles/Job_Management_Application.dir
+C:/Users/C5262029/Documents/Job-Management-Application/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/C5262029/Documents/Job-Management-Application/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+1,chrome,opens chrome,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+2,internet explorer,opens internet explorer,C:\Program Files\Internet Explorer\iexplore.exe
+3,hello world,saying hello world,C:\MinGW\bin\helloWorld.exe
+4,ping,getting the ping for 8.8.8.8,ping 8.8.8.8
